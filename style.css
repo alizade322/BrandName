@@ -1,0 +1,162 @@
+.main{
+    width: 100%;
+    height: 750px;
+    background-image: url('kosmos.jpg!d');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.headerleft{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: blue; */
+    color: white;
+}
+
+.headermidle{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    /* background-color: brown; */
+}
+
+.uleli{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    color: white;
+}
+
+.headerright{
+    width: 30%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    /* background-color: blueviolet; */
+}
+
+.login{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    /* background-color: rgb(157, 255, 0); */
+}
+
+.joinus{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    /* background-color: rgb(0, 217, 255); */
+    color: white;
+}
+
+.midle{
+    width: 100%;
+    min-height: 500px;
+    /* background-color: darkgreen; */
+}
+
+.midletop{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    /* background-color: darkmagenta; */
+    color: white;
+}
+
+.midlemid{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    /* background-color: deeppink; */
+}
+
+.midlemidtext{
+    width: 22%;
+    height: 150px;
+    display: flex;
+    text-align-last: center;
+    margin-top: 20px;
+    /* background-color: gold; */
+    color: white;
+}
+
+.midledowndiv{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    /* background-color: brown; */
+}
+
+.midledowntext{
+    width: 26%;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    text-align-last: center;
+    margin-top: 20px;
+    /* background-color: indigo; */
+    color: white;
+}
+
+.midlebuttons{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.joinusmid{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    /* background-color: rgb(255, 0, 0); */
+}
+
+.joinus2{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 247, 255);
+    color: white;
+}
+
+.learnmorebutton{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    /* background-color: blueviolet; */
+}
+
+.learnmore{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    /* background-color: black; */
+    color: white;
+}
+
+
